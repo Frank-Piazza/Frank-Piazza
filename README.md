@@ -5,7 +5,7 @@ Aspiring Data Analyst
 ---------------------
 
 I have a passion for data and get excited by databases in finding revealing insights. I'm transcending into Data Analysis as I believe it fits perfectly with my natural skillset of problem solving. I have completed a 12 week Data Analysis intensive bootcamp course covering the following modules: 
-• Data, Big Data and Data Structures 
+* Data, Big Data and Data Structures 
 • Data Architecture & Governance 
 • Data Analysis using MS Excel 
 • Introduction to Data Visualisation with MS Excel Tableau and Power BI 
